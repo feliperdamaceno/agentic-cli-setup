@@ -1,0 +1,14 @@
+{
+  "theme": "dark",
+  "quietStartup": true,
+  "defaultProvider": "ollama",
+  "defaultModel": "qwen3.5:4b-q4_K_M",
+  "defaultThinkingLevel": "low",
+  "hideThinkingBlock": true,
+  "thinkingBudgets": {
+    "minimal": 512,
+    "low": 1024,
+    "medium": 2048,
+    "high": 4096
+  }
+}
